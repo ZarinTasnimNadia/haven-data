@@ -1,1 +1,47 @@
-[]
+{
+  "meta": {
+    "last_updated": "2026-05-20T01:04:59.864778",
+    "current_semester": "Undergraduate Summer 2026",
+    "next_scheduled_sync": "2026-06-19T01:04:59.864771"
+  },
+  "departments": {
+    "CS": [
+      {
+        "id": 68274,
+        "applicationId": null,
+        "studentId": "23301293",
+        "fullName": "Zarin Tasnim",
+        "photoId": "127949",
+        "programOrCourse": "BACHELOR OF SCIENCE IN COMPUTER SCIENCE",
+        "courseOrProgramId": 25,
+        "academicType": "UNDERGRADUATE",
+        "refId": null,
+        "hasCompleted": false,
+        "convocationStatus": null,
+        "isPreUni": null,
+        "cgpa": 3.73,
+        "earnedCredit": 96,
+        "certificateNo": null,
+        "hasAppliedForDegreeCompletion": false,
+        "major": null,
+        "minor": null,
+        "declarationStatus": null,
+        "attemptedCredit": 96,
+        "academicDegree": null,
+        "filePath": "student/profile/631094566.jpg",
+        "isDomestic": true,
+        "shortCode": "CS",
+        "enrolledSessionSemesterId": 20232,
+        "currentSessionSemesterId": 20261,
+        "currentSemester": "SPRING 2026",
+        "enrolledSemester": "SUMMER 2023",
+        "departmentName": "DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING",
+        "studentEmail": "zarin.tasnim29@g.bracu.ac.bd",
+        "mobileNo": "01723269407",
+        "isEligibleForDegreeCompletionRequest": false,
+        "gender": null,
+        "programCurriculumId": null
+      }
+    ]
+  }
+}
